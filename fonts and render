@@ -1,0 +1,5 @@
+def RenderOverlay():
+    #drow title and buttons
+    
+    #app name
+    screen.blit(pygame.font.SysFont("freeserif",30,bold=0).render(app_name, 1, white),((width-350),10))
