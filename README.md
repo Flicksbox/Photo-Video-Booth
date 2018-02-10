@@ -23,3 +23,4 @@ Photo & Video booth
 Integrated Google Albums/Insta/Fb uploading. Integrated smart phone downloading/sharing. 
 Live view before photo/video is taken 
 Review playback function. 
+.
